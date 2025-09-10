@@ -1,24 +1,24 @@
-﻿# Вітаю на моїй сторінці! 👋
+# Welcome to my page! 👋
 
-## Про мене
-Я студент, який вивчає веб-технології. Цей репозиторій містить мої лабораторні роботи та проекти з курсу веб-технологій.
+## About me
+I am a student studying web technologies. This repository contains my labs and projects from the web technologies course.
 
-## Навички
+## Skills
 - HTML/CSS
 - JavaScript
 - Git & GitHub
 - Linux CLI
 
-## Лабораторні роботи
+## Labs
 - [Lab 1: Git, GitHub, Linux CLI](labs/lab-1)
 
-## Проекти
-*Скоро з'являться мої проекти...*
+## Projects
+*My projects coming soon...*
 
-## Контакти
+## Contacts
 - GitHub: [@BilousArtur](https://github.com/BilousArtur)
 - Email: *bilousartur543@gmail.com*
 
 ---
 
-*Ця сторінка знаходиться в процесі розробки 🚀*
+*This page is under development 🚀*
