@@ -1,23 +1,23 @@
-﻿# Мої враження від лабораторних робіт
+# My impressions of the lab work
 
 ## Lab 1: Git, GitHub, Linux CLI
-*Дата: 08.09.2025*
+*Date: 08.09.2025*
 
-**Що сподобалось:**
-- Навчився працювати з Git
-- Зрозумів як пушити на GitHub
-- Опанував базові команди Linux
+**What I liked:**
+- Learned to work with Git
+- Understood how to push to GitHub
+- Mastered basic Linux commands
 
-**Складності:**
-- Спочатку було важко з конфліктами
-- Потрібно було звикнути до командного рядка
+**Difficulties:**
+- At first it was difficult with conflicts
+- I had to get used to the command line
 
-**Висновки:**
-Git - дуже потужний інструмент для розробника!
+**Conclusions:**
+Git is a very powerful tool for a developer!
 
 ---
 
-## Lab 2: [Назва наступної лаби]
-*Очікую на цікаві завдання...*
+## Lab 2: [Name of the next lab]
+*I'm looking forward to interesting tasks...*
 
 ---
