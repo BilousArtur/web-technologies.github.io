@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Лабораторна робота №1 - JavaScript</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #f0f4f8;
+        }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #2c3e50;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 10px;
+        }
+        .output-area {
+            background: #ecf0f1;
+            padding: 20px;
+            border-radius: 5px;
+            margin: 20px 0;
+            min-height: 60px;
+            border: 1px solid #bdc3c7;
+            font-size: 18px;
+        }
+        button {
+            background: #3498db;
+            color: white;
+            border: none;
+            padding: 12px 25px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: background 0.3s;
+            margin: 5px;
+        }
+        button:hover {
+            background: #2980b9;
+        }
+        button.reset-btn {
+            background: #e74c3c;
+        }
+        button.reset-btn:hover {
+            background: #c0392b;
+        }
+        .info {
+            color: #7f8c8d;
+            font-size: 14px;
+            margin-top: 20px;
+            padding: 10px;
+            background: #f9f9f9;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Лабораторна робота №1</h1>
+        <h2>Знайомство з JavaScript</h2>
+        
+        <div class="output-area" id="output">
+            <!-- Сюди буде виводитися результат -->
+        </div>
+
+        <div>
+            <button onclick="showHelloWorld()">Показати "Hello world!"</button>
+            <button onclick="clearOutput()" class="reset-btn">Очистити</button>
+            <button ondblclick="showHelloWorld()">Подвійний клік</button>
+        </div>
+
+        <div class="info">
+            <p><strong>Інструкція:</strong></p>
+            <ul>
+                <li>Кнопка <strong>"Показати"</strong> - виводить повідомлення (подія onclick)</li>
+                <li>Кнопка <strong>"Подвійний клік"</strong> - спрацьовує на подію ondblclick</li>
+                <li>Кнопка <strong>"Очистити"</strong> - очищає вивід</li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- Підключення зовнішнього JS файлу -->
+    <script src="script.js"></script>
+</body>
+</html>
