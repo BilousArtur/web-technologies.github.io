@@ -1,13 +1,13 @@
-# Lab 8: Loops (while, do-while, for)
+# Lab 13: Objects in JavaScript
 
 ## Objective
-Learn to use different types of loops in JavaScript.
+Learn to create objects and work with their properties and methods.
 
 ## Completed Tasks
-- [x] Using `for` loop
-- [x] Using `while` loop
-- [x] Using `do-while` loop
-- [x] Loop iteration
+- [x] Creating objects
+- [x] Adding properties
+- [x] Adding methods
+- [x] Using `this` keyword
 
 ## Technologies Used
 - HTML5

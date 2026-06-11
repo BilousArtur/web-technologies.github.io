@@ -1,13 +1,13 @@
-# Lab 8: Loops (while, do-while, for)
+# Lab 11: Arrays
 
 ## Objective
-Learn to use different types of loops in JavaScript.
+Learn to create and manipulate arrays.
 
 ## Completed Tasks
-- [x] Using `for` loop
-- [x] Using `while` loop
-- [x] Using `do-while` loop
-- [x] Loop iteration
+- [x] Creating arrays
+- [x] Accessing elements by index
+- [x] Using `push()` method
+- [x] Using `length` property
 
 ## Technologies Used
 - HTML5
