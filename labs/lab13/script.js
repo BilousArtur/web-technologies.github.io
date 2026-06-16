@@ -1,7 +1,7 @@
 // Lab 13: Objects in JavaScript
 let studentProfile = {
-    firstName: "Назар",
-    lastName: "Кавун",
+    firstName: "Артур",
+    lastName: "Білоус",
     course: 1,
     isEnrolled: true,
     showFullName: function() {

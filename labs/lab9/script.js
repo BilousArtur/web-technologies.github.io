@@ -3,7 +3,7 @@ function sayGreeting(name) {
     return "Привіт, " + name + "!";
 }
 
-let greetingText = sayGreeting("Назар");
+let greetingText = sayGreeting("Артур");
 console.log(greetingText);
 
 function calculateArea(width, height) {
